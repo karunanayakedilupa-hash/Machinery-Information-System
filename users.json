@@ -7,6 +7,13 @@
    "salt": "hcoFR1oEjmnLRO9kJziruQ==",
    "iv": "l/Va/bgSszW0WCzv",
    "ct": "TVDa0fipRq+zNk0NLCufP9VdQ9+mXizJQR2mCHtbrBqUGUUNlg6lwY1I1ohGVylGBHxhag0RB/okBatM+SFH1jNoBotSAN7LCi0hP0y4OF4urA2/8OFuyxOQz4hy/77JmEapeqbaWwMw/zNqmQ=="
+  },
+  {
+   "u": "User",
+   "r": "viewer",
+   "salt": "g2JEoy6tdiWLk3P13w8bYA==",
+   "iv": "CWqmCbOxNwbz+us5",
+   "ct": "OWHCGeQVeyD8l1vuwCJDAabRjPu1QsAhy9r4xhyeeduAcYY4+bY700OPuuAG88/GZ2tbw5KWfkxNzncenwVZGhVOMeCzlw4Xcny3atTRpU4aUMsOzEvdkEA9WQvzq8MfkW1jqP3l+uWqwxnxUw=="
   }
  ]
 }
